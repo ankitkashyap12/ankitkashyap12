@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankit Kashyap
-- 👀 I’m interested in Python,Flask,Django,Spring,Java,mule
-- 🌱 I’m currently learning Spring
+- 👀 I’m interested in Python,Flask,Django,Spring,Java,mule,spring,springboot.
+- 🌱 I’m currently learning GCP.
 - 💞️ I’m looking to collaborate on python projects,ML
 - 📫 How to reach me ankitkashyap367@gmail.com
 
