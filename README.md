@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankit Kashyap
 - 👀 I’m interested in Python,Flask,Django,Spring,Java,mule,spring,springboot,Kubernetes,Golang.
 - 🌱 I’m currently learning GCP.
-- 💞️ I’m looking to collaborate on Java,sprinboot,Golanf,clouds.
+- 💞️ I’m looking to collaborate on Java,sprinboot,Golang,clouds.
 - 📫 How to reach me ankitkashyap367@gmail.com
 
 <!---
