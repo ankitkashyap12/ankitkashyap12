@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning GCP.
 - 💞️ I’m looking to collaborate on Java,sprinboot,Golang,clouds.
 - 📫 How to reach me ankitkashyap367@gmail.com
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -15,22 +16,29 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
  <img src="https://logonoid.com/images/intellij-idea-logo.png" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
 </div>
+
 ---
-### 🔥 My Stats :
-Languages across repository :
----
+
+## 🔥 My Stats :
+### <i>Languages across repository<i> :
 {{ LANGUAGE_TEMPLATE_START }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
 
 ---
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
+
 🍴 Forking and commiting since **{{ ACCOUNT_AGE }}** years ago.
-✍️ Wrote **{{ COMMITS }}** commits,
-➡️ Raised **{{ ISSUES }}** issues, 
-☄️submitted **{{ PULL_REQUESTS }}** pull requests
+
+✍️ Wrote **{{ COMMITS }}** commits.
+
+➡️ Raised **{{ ISSUES }}** issues.
+
+☄️submitted **{{ PULL_REQUESTS }}** pull requests.
+
 💥contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 
