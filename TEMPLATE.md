@@ -1,3 +1,10 @@
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankitkashyap12&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+
+---
+
+
 - 👋 Hi, I’m @Ankit Kashyap
 - 👀 I’m interested in Python,Flask,Django,Spring,Java,mule,spring,springboot,Kubernetes,Golang.
 - 🌱 I’m currently learning GCP.
@@ -19,17 +26,12 @@
 
 ---
 
-## 🔥 My Stats :
 ### <i>Languages across repository<i> :
 {{ LANGUAGE_TEMPLATE_START }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
 
----
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
 
 🍴 Forking and commiting since **{{ ACCOUNT_AGE }}** years ago.
 
