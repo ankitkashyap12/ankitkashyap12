@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning GCP.
 - 💞️ I’m looking to collaborate on Java,sprinboot,Golang,clouds.
 - 📫 How to reach me ankitkashyap367@gmail.com
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -15,10 +16,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
  <img src="https://logonoid.com/images/intellij-idea-logo.png" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
 </div>
+
 ---
-### 🔥 My Stats :
-Languages across repository :
----
+
+## 🔥 My Stats :
+### <i>Languages across repository<i> :
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B178%25)
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B110.7%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B14.3%25)
@@ -29,13 +31,19 @@ Languages across repository :
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.5%25)
 
 ---
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
+
 🍴 Forking and commiting since **6** years ago.
-✍️ Wrote **155** commits,
-➡️ Raised **3** issues, 
-☄️submitted **8** pull requests
+
+✍️ Wrote **156** commits.
+
+➡️ Raised **3** issues.
+
+☄️submitted **8** pull requests.
+
 💥contributed to **0** public repositories.
 
 
