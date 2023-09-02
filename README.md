@@ -16,13 +16,9 @@
  <img src="https://logonoid.com/images/intellij-idea-logo.png" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
 </div>
 ---
-
-## 🔥 My Stats :
-
-### <i>Languages across repository :</i>
-
+### 🔥 My Stats :
+Languages across repository :
 ---
-
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B178%25)
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B110.7%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B14.3%25)
@@ -37,13 +33,9 @@
 
 ---
 🍴 Forking and commiting since **6** years ago.
-
-✍️ Wrote **154** commits.
-
-➡️ Raised **3** issues.
-
-☄️submitted **8** pull requests.
-
+✍️ Wrote **155** commits,
+➡️ Raised **3** issues, 
+☄️submitted **8** pull requests
 💥contributed to **0** public repositories.
 
 
